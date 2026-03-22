@@ -1,7 +1,8 @@
 # 📘 Predicting Voluntary Turnover Using Machine Learning Classification Methods for Strategic Retention Planning  
 ## Ramiro Ribadeneira
-Toronto Metropolitan University  
-School of Management  
+Toronto Metropolitan University
+Data Analytics, Big Data, and Predictive Analytics Certificate
+The Chang School of Continuing Education
 Capstone Project (2026)
 ---
 
@@ -124,7 +125,8 @@ To answer RQ2 and RQ4:
 ## 👤 Author  
 **Ramiro Ribadeneira**  
 Toronto Metropolitan University  
-School of Management  
+Data Analytics, Big Data, and Predictive Analytics Certificate 
+The Chang School of Continuing Education 
 Capstone Project (2026)
 
 ---
